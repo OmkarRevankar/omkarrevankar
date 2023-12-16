@@ -5,7 +5,7 @@
 <h3 align="center">About Me :</h3>  
  <p>
 <div align="center">
-<br>  I am highly adroit and methodical professional, with over 7.6 years of experience in the software industry, particularly in the implementation and testing of applications, including over 5+ years of experience in Big Data using Hadoop, HDFS, Hive, PySpark, Impala, and UNIX shell scripting. 
+<br>  I am highly adroit and methodical professional, with over 7.8+ years of experience in the software industry, particularly in the implementation and testing of applications, including over 5+ years of experience in Big Data using Hadoop, HDFS, Hive, PySpark, Impala, and UNIX shell scripting. 
 Skilled in batch data ingestion, processing mechanism in Hadoop/Spark and storage using HDFS. Offers hands-on experience in performing ETL operations and implementing Hadoop stack using different big data analytics tools.
 Strong information technology professional with a Master of Technology - MTech focused Computer Engineering from College of Engineering Pune. You can find lots of data engineering projects here, welcome to my GitHub :)
 </div>
@@ -20,7 +20,7 @@ Strong information technology professional with a Master of Technology - MTech f
 </a>
 
 <a href="mailto:omkarr2490@gmail.com" target="blank">
-<img src="img/mail.png" style="height: 3rem"/>
+<img src="gmail.png" style="height: 3rem"/>
 </a>
 
 </div>
