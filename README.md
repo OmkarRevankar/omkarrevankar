@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi! I'm Omkar Revankar</h3>
+<h3 align="center">Hello! I'm Omkar Revankar</h3>
 <h3 align="center">Data Engineer</h3>
 
 <h3 align="center">About Me :</h3>  
@@ -20,7 +20,7 @@ Strong information technology professional with a Master of Technology - MTech f
 </a>
 
 <a href="mailto:omkarr2490@gmail.com" target="blank">
-<img src="gmail.png" style="height: 3rem"/>
+<img src="img/gmail.png" style="height: 3rem"/>
 </a>
 
 </div>
